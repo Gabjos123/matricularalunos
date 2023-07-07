@@ -1,0 +1,54 @@
+body{
+    background-image: url(../img/img.png);
+    background-position:center center;
+    
+    
+}
+*{
+    font-family: 'Permanent Marker', cursive;
+}
+
+button{
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    width: 200px;
+    background-color: black;
+    
+}
+
+h1{
+    color: aliceblue;
+    text-align:center top;
+    text-align: center;
+}
+h2{
+    color: aliceblue;
+    text-align:center;
+}
+
+form{
+    color: aliceblue;
+
+}
+
+
+
+.cor-branca{
+    color: white;
+ }
+
+.form-center {
+   
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: center;
+    height: 100vh;
+}
+  
+
+
+
+  
+
+
